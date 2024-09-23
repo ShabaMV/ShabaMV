@@ -1,17 +1,8 @@
-- 👋 Hi, I’m @ShabaMV
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-ShabaMV/ShabaMV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<img src="https://mi-sha.ru/images/photographer/photographer-2/sp-logo-b.png" style='text-align: center;'>
-<h3 style='text-align: center;'>myTools</h3>
+<p align=center>
+<img src="https://mi-sha.ru/images/photographer/photographer-2/sp-logo-b.png" width=80>
+</p>
+<h3 style='text-align: center;'>Hi there!</h3>
+<h3 style='text-align: center;'>My tools</h3>
 <p align='center'>
 <img alt="Static Badge" src="https://img.shields.io/badge/-python-white?style=for-the-badge&logo=python&logoColor=%233776AB&color=%23e9e9e9"" > 
   <img alt="Static Badge" src="https://img.shields.io/badge/-python-white?style=for-the-badge&logo=python&logoColor=%233776AB&color=%23e9e9e9"" > 
