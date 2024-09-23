@@ -1,6 +1,5 @@
 <p align='center'>
-<img alt="Static Badge" src="https://img.shields.io/badge/-python-white?style=for-the-badge&logo=python&logoColor=%233776AB&color=%23e9e9e9"" > 
-  <img alt="Static Badge" src="https://img.shields.io/badge/-python-white?style=for-the-badge&logo=python&logoColor=%233776AB&color=%23e9e9e9"" > 
+<img alt="Static Badge" src="https://img.shields.io/badge/-python-white?style=for-the-badge&logo=python&logoColor=%233776AB&color=%23e9e9e9"" >  
 <img alt="Static Badge" src="https://img.shields.io/badge/-php-white?style=for-the-badge&logo=php&logoColor=%23777BB4&color=%23e9e9e9"> 
 <img alt="Static Badge" src="https://img.shields.io/badge/-mysql-white?style=for-the-badge&logo=mysql&logoColor=%234479A1&color=%23e9e9e9"">
 <img alt="Static Badge" src="https://img.shields.io/badge/-apache-white?style=for-the-badge&logo=apache&logoColor=%23D22128&color=%23e9e9e9"">
