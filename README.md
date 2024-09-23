@@ -13,5 +13,4 @@
 <p align=center>
 <img src="https://mi-sha.ru/images/photographer/photographer-2/sp-logo-b.png" width=80>
 </p>
-<h3 style='text-align: center;'>Hi there!</h3>
 
